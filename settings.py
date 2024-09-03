@@ -3,6 +3,7 @@
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
+GRID_SIZE = 25
 SCREEN_TITLE = "Tetris"
 
 # Colors
